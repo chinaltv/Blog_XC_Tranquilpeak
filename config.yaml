@@ -1,9 +1,9 @@
 baseURL: /
 languageCode: zh-cn
 defaultContentLanguage: zh-cn
-title: Hugo tranquilpeak theme
+title: Darkest Cordillera
 theme: hugo-tranquilpeak-theme
-disqusShortname: hugo-tranquilpeak-theme
+disqusShortname: thunderousltv
 paginate: 7
 canonifyurls: yes
 permalinks:
@@ -21,8 +21,8 @@ author:
   bio: "「心に太陽を持て」"
   job: "心理学研究员/写作者"
   location: "中国，厦门"
-  name: "ZealotP"
-  picture: https://s2.loli.net/2022/02/04/sbahJ6lokij8trN.png
+  name: "Zealot"
+  picture: "/images/Avatar.png"
   gravatarEmail:
 menu:
   # links:
@@ -74,7 +74,7 @@ params:
   comment:
     disqus:
       enable: yes
-      shortname: hugo-tranquilpeak-theme
+      shortname: thunderousltv
     gitalk:
       enable: no
       options:
@@ -84,6 +84,7 @@ params:
         pagerDirection: first
         perPage: 10
   coverImage: images/cover.jpg
+  favicon: images/favicon.png
   customJS:
     - async: yes
       crossorigin: anonymous
