@@ -1,6 +1,6 @@
 ---
 title: V：故事II
-author: M.W. & L.D. from old world
+author: M.W. & L.D. from Apocalypse
 date: '2011-02-03'
 slug: imago5-ii
 categories:
@@ -8,8 +8,6 @@ categories:
   - imago
 tags:
   - Story
-keywords:
-  - tech
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
@@ -18,7 +16,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 一个久远的故事的开端。
 <!--more-->
 
-文 / M.W. & L.D. from old world
+文 / M.W. & L.D. from Apocalypse
 
 **1（故事.伊始纪）**
 
@@ -533,7 +531,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 &nbsp;
 
-【传说篇。全卷终。】
+**【传说篇。全卷终。】**
 
 &nbsp;
 
@@ -549,4 +547,4 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 &nbsp;
 
-【故事篇。全卷终。】
+**【故事篇。全卷终。】**
