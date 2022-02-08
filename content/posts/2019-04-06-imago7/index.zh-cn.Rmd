@@ -1,5 +1,5 @@
 ---
-title: VII：The road to Upper Peninsula (12/23)
+title: VII：The road to Upper Peninsula. (12/23)
 author: C from NAND city
 date: '2019-04-06'
 slug: imago7
@@ -13,9 +13,11 @@ tags:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-For Lapis Lazuli.
+To Lapis Lazuli.
 
 <!--more-->
+
+*For H. P. Passeriformes*
 
 文 / C from NAND city
 
@@ -138,7 +140,7 @@ For Lapis Lazuli.
  
 &nbsp;
 
-5（远旧营地，告别仪式长章，下，其一） 2019.04/06于2020.06.22
+**5（远旧营地，告别仪式长章，下，其一） 2019.04/06于2020.06.22**
 
 重整旅途是一件非常困难的事。特别是在一个封闭式的，无法窥探的箱子内，显得更为艰难。在第一次告别结束以后，城堡的崩塌和羽园的溶解造就了营地的诞生和繁荣，但这一切应与旅人们无关。镜潋这么想。他们终要离去。想到这里，他更加难过。
 
