@@ -83,7 +83,10 @@ params:
         language: en
         pagerDirection: first
         perPage: 10
-  coverImage: images/cover.jpg
+  coverImage: images/cover3_blurred.jpg
+# change sidebar color
+  customCSS:
+    - href: 'css/mystyle.css'
   favicon: images/favicon.png
   customJS:
     - async: yes
