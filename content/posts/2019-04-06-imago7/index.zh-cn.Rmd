@@ -9,9 +9,6 @@ categories:
 tags:
   - Story
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 To Lapis Lazuli.
 
