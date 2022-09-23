@@ -1,7 +1,7 @@
 ---
 title: 『 夏猫. 』
-author: M.W. from Genesis
-date: '2018-11-10'
+author: 'M.W. from Genesis'
+date: 2018-11-10
 slug: XYMHC
 categories:
   - Story
@@ -37,8 +37,6 @@ tags:
  
 &nbsp;
 
-新世，M。
-
-2018.11.10
-
+新世，M。  
+2018.11.10  
 Shanghai，深渊。

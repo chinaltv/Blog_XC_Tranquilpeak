@@ -1,7 +1,7 @@
 ---
 title: VI：The world after 7.
-author: C, M.W., & L.D. from Genesis
-date: '2012-02-19'
+author: 'C, M.W., & L.D. from Genesis'
+date: 2012-02-19
 slug: imgao6
 categories:
   - Story
@@ -9,10 +9,6 @@ categories:
 tags:
   - Story
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
-
 一个黑暗的故事的结束。
 <!--more-->
 
@@ -240,7 +236,7 @@ MW静默。“我厌倦了使用伪装，使用单调的，难以理解的语言
 
 &nbsp;
 
-他温和地说道。就像是十年前，他刚进入这场流动的戏剧中一样。
+他*温和*地说道。就像是十年前，他刚进入这场流动的戏剧中一样。
 
 &nbsp;
 

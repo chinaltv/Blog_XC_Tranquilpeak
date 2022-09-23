@@ -1,7 +1,7 @@
 ---
-title: "VII：The road to Upper Peninsula."
-author: "C from NAND city"
-date: "2019-04-06"
+title: VII：The road to Upper Peninsula.
+author: 'C from NAND city'
+date: 2019-04-06
 slug: imago7
 categories:
   - Story
