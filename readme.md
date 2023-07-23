@@ -8,8 +8,8 @@
 
 在config.yaml里，我：
 
-1. 删除了无用的分享链接，修订分享到推特和脸书的网站链接，并新加分享到微博。预留一个接口分享到微信，但是还没做。
-2. 尝试修复Disqus问题。见：https://stackoverflow.com/questions/44098635/disqus-plugin-social-urls-dont-load-in-site-generated-using-r-blogdown和https://github.com/rstudio/blogdown/issues/52。基本而言，我就是尝试blogdown::build_site()后再blogdown::serve_site()，并且在config.yaml里加入了base_url（基于我买的域名）
+1. 删除了无用的分享链接，修订分享到推特和脸书的网站链接，并新加分享到微博。我只是修改了config.yaml文件，并没有在模板文件share-options.html里面改动h5（其工作原理是将href这个变量替换到前面config.yaml的%s）。出于我的能力问题，我曾尝试修改href使其加入固定字符串“我的域名”，但失败了。预留一个接口分享到微信，但是还没做。
+2. 尝试修复Disqus问题。见：https://stackoverflow.com/questions/44098635/disqus-plugin-social-urls-dont-load-in-site-generated-using-r-blogdown和https://github.com/rstudio/blogdown/issues/52。基本而言，我就是尝试blogdown::build_site()后再blogdown::serve_site()。
 
 &nbsp;
 
