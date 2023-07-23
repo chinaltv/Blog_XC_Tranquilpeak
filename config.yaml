@@ -150,16 +150,16 @@ params:
   sharingOptions:
     - icon: fab fa-facebook-square
       name: Facebook
-      url: https://www.facebook.com/sharer/sharer.php?u=%shttps%3A%2F%2Fnand.city
+      url: https://www.facebook.com/sharer/sharer.php?u=%s
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/intent/tweet?text=%shttps%3A%2F%2Fnand.city
+      url: https://twitter.com/intent/tweet?text=
     # - icon: fab fa-weixin
     #   name: Wechat
     #   url: https://
     - icon: fab fa-weibo
       name: 微博
-      url: https://service.weibo.com/share/share.php?url=%shttps%3A%2F%2Fnand.city
+      url: https://service.weibo.com/share/share.php?url=%s
   sidebarBehavior: 1
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
