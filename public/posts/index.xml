@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Darkest Cordillera</title>
-    <link>https://NAND.city/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Darkest Cordillera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://NAND.city/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>『 Iron Amber. 』</title>
-      <link>https://NAND.city/2021/09/xymhc/</link>
+      <link>/2021/09/xymhc/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2021/09/xymhc/</guid>
+      <guid>/2021/09/xymhc/</guid>
       <description>
 
 
@@ -22,10 +22,10 @@
     
     <item>
       <title>VII：The road to Upper Peninsula.</title>
-      <link>https://NAND.city/2019/04/imago7/</link>
+      <link>/2019/04/imago7/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2019/04/imago7/</guid>
+      <guid>/2019/04/imago7/</guid>
       <description>
 
 
@@ -35,10 +35,10 @@
     
     <item>
       <title>『 自我高速告别. 』</title>
-      <link>https://NAND.city/2018/12/xymhc/</link>
+      <link>/2018/12/xymhc/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2018/12/xymhc/</guid>
+      <guid>/2018/12/xymhc/</guid>
       <description>
 
 
@@ -48,10 +48,10 @@
     
     <item>
       <title>『 夏猫. 』</title>
-      <link>https://NAND.city/2018/11/xymhc/</link>
+      <link>/2018/11/xymhc/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2018/11/xymhc/</guid>
+      <guid>/2018/11/xymhc/</guid>
       <description>
 
 
@@ -61,10 +61,10 @@
     
     <item>
       <title>『 夜巡. 』</title>
-      <link>https://NAND.city/2018/05/xymhc/</link>
+      <link>/2018/05/xymhc/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2018/05/xymhc/</guid>
+      <guid>/2018/05/xymhc/</guid>
       <description>
 
 
@@ -74,10 +74,10 @@
     
     <item>
       <title>『 倦鸟归去. 』</title>
-      <link>https://NAND.city/2015/09/xymhc/</link>
+      <link>/2015/09/xymhc/</link>
       <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2015/09/xymhc/</guid>
+      <guid>/2015/09/xymhc/</guid>
       <description>
 
 
@@ -88,10 +88,10 @@
     
     <item>
       <title>『 新昭. 』</title>
-      <link>https://NAND.city/2012/05/xymhc/</link>
+      <link>/2012/05/xymhc/</link>
       <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2012/05/xymhc/</guid>
+      <guid>/2012/05/xymhc/</guid>
       <description>
 
 
@@ -101,10 +101,10 @@
     
     <item>
       <title>VI：黄昏童话</title>
-      <link>https://NAND.city/2012/05/imago6/</link>
+      <link>/2012/05/imago6/</link>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2012/05/imago6/</guid>
+      <guid>/2012/05/imago6/</guid>
       <description>
 
 
@@ -113,10 +113,10 @@
     
     <item>
       <title>VI：The world after 7.</title>
-      <link>https://NAND.city/2012/02/imgao6/</link>
+      <link>/2012/02/imgao6/</link>
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2012/02/imgao6/</guid>
+      <guid>/2012/02/imgao6/</guid>
       <description>
 
 
@@ -126,10 +126,10 @@
     
     <item>
       <title>十二月礼之歌II</title>
-      <link>https://NAND.city/2011/11/poem/</link>
+      <link>/2011/11/poem/</link>
       <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2011/11/poem/</guid>
+      <guid>/2011/11/poem/</guid>
       <description>
 
 
@@ -138,10 +138,10 @@
     
     <item>
       <title>V：故事II</title>
-      <link>https://NAND.city/2011/02/imago5-ii/</link>
+      <link>/2011/02/imago5-ii/</link>
       <pubDate>Thu, 03 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2011/02/imago5-ii/</guid>
+      <guid>/2011/02/imago5-ii/</guid>
       <description>
 
 
@@ -151,10 +151,10 @@
     
     <item>
       <title>『 绝望. 』</title>
-      <link>https://NAND.city/2010/11/xymhc/</link>
+      <link>/2010/11/xymhc/</link>
       <pubDate>Sun, 21 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2010/11/xymhc/</guid>
+      <guid>/2010/11/xymhc/</guid>
       <description>
 
 
@@ -164,10 +164,10 @@
     
     <item>
       <title>『 破晓. 』</title>
-      <link>https://NAND.city/2010/10/xymhc/</link>
+      <link>/2010/10/xymhc/</link>
       <pubDate>Thu, 07 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://NAND.city/2010/10/xymhc/</guid>
+      <guid>/2010/10/xymhc/</guid>
       <description>
 
 

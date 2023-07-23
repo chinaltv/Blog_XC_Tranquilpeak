@@ -1,4 +1,4 @@
-baseURL: https://NAND.city/
+baseURL: /
 languageCode: zh-cn
 defaultContentLanguage: zh-cn
 title: Darkest Cordillera
@@ -74,7 +74,7 @@ params:
   comment:
     disqus:
       enable: yes
-      shortname: "thunderousltv"
+      shortname: "nand-city"
     gitalk:
       enable: no
       options:
@@ -150,16 +150,16 @@ params:
   sharingOptions:
     - icon: fab fa-facebook-square
       name: Facebook
-      url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FNAND.city
+      url: https://www.facebook.com/sharer/sharer.php?u=%s
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/intent/tweet?url=https%3A%2F%2FNAND.city
+      url: https://twitter.com/intent/tweet?text=
     # - icon: fab fa-weixin
     #   name: Wechat
     #   url: https://
     - icon: fab fa-weibo
-      name: Weibo
-      url: https://service.weibo.com/share/share.php?url=http%3A%2F%2FNAND.city
+      name: 微博
+      url: https://service.weibo.com/share/share.php?url=%s
   sidebarBehavior: 1
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
