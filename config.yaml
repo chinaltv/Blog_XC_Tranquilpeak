@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://NAND.city/
 languageCode: zh-cn
 defaultContentLanguage: zh-cn
 title: Darkest Cordillera
@@ -139,7 +139,7 @@ params:
       defer: yes
       integrity: sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==
       src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js
-  description: Hugo tranquilpeak theme demo
+  description: Right now I’m made of L-O-V-E.
   header:
     rightLink:
       class: ''
@@ -150,13 +150,16 @@ params:
   sharingOptions:
     - icon: fab fa-facebook-square
       name: Facebook
-      url: https://www.facebook.com/sharer/sharer.php?u=%s
+      url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FNAND.city
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/intent/tweet?text=%s
-    - icon: fab fa-linkedin
-      name: Linkedin
-      url: https://www.linkedin.com/sharing/share-offsite/?url=%s
+      url: https://twitter.com/intent/tweet?url=https%3A%2F%2FNAND.city
+    # - icon: fab fa-weixin
+    #   name: Wechat
+    #   url: https://
+    - icon: fab fa-weibo
+      name: Weibo
+      url: https://service.weibo.com/share/share.php?url=http%3A%2F%2FNAND.city
   sidebarBehavior: 1
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
