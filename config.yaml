@@ -1,4 +1,4 @@
-baseURL: nand.city
+baseURL: /
 languageCode: zh-cn
 defaultContentLanguage: zh-cn
 title: Darkest Cordillera
@@ -150,16 +150,16 @@ params:
   sharingOptions:
     - icon: fab fa-facebook-square
       name: Facebook
-      url: https://www.facebook.com/sharer/sharer.php?u=%s
+      url: https://www.facebook.com/sharer/sharer.php?u=%shttps%3A%2F%2Fnand.city
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/intent/tweet?text=%s
+      url: https://twitter.com/intent/tweet?text=%shttps%3A%2F%2Fnand.city
     # - icon: fab fa-weixin
     #   name: Wechat
     #   url: https://
     - icon: fab fa-weibo
       name: 微博
-      url: https://service.weibo.com/share/share.php?url=%s
+      url: https://service.weibo.com/share/share.php?url=%shttps%3A%2F%2Fnand.city
   sidebarBehavior: 1
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
